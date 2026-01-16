@@ -13,5 +13,6 @@ When using this configuration, Wi-Fi power consumption on ESP32 series chips can
 
 Run the following commands to switch to the target sdkconfig file:
 
-- export SDKCONFIG_DEFAULTS="sdkconfig.s3"
-- idf.py build
+- `export SDKCONFIG_DEFAULTS="sdkconfig.s3"`
+
+- `idf.py build`
