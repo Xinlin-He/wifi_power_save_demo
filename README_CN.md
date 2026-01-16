@@ -12,5 +12,6 @@
 
 输入以下指令修改至目标 sdkconfig 文件：
 
-- export SDKCONFIG_DEFAULTS="sdkconfig.s3"
-- idf.py build
+- `export SDKCONFIG_DEFAULTS="sdkconfig.s3"`
+
+- `idf.py build`
